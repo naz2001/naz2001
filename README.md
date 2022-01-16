@@ -60,7 +60,7 @@
 ![snake gif](https://github.com/naz2001/naz2001/blob/output/github-contribution-grid-snake.svg)
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=naz2001&show_icons=true&locale=en&layout=compact" width="450" height="450" alt="naz2001" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=naz2001&show_icons=true&locale=en" width="450" height="450" halt="naz2001" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=naz2001&show_icons=true&locale=en&layout=compact" width="400" height="400" alt="naz2001" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=naz2001&show_icons=true&locale=en" width="400" height="400" halt="naz2001" />
 </p>
   
