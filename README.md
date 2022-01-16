@@ -61,9 +61,9 @@
 <p align="center" >
  <img src="https://github.com/naz2001/naz2001/blob/output/github-contribution-grid-snake.svg" alt ="snake gif">
  <br> </br>
- <img src="https://github-readme-stats.vercel.app/api?username=naz2001&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats    for naz2001" width="700">
+ <img src="https://github-readme-stats.vercel.app/api?username=naz2001&show_icons=true&include_all_commits=true&count_private=true&theme=radical&layout=compact" alt="GitHub Stats    for naz2001" width="700">
  <br> </br>
- <img src="https://github-readme-streak-stats.herokuapp.com?user=naz2001&theme=jolly" width="700">
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=naz2001&theme=radical" width="700">
 </p>
 
 
